@@ -9,7 +9,7 @@ import uk.ac.ebi.pwp.widgets.rhea.model.Molecule;
 import uk.ac.ebi.pwp.widgets.rhea.model.Reaction;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class RheaTable extends Composite {
     private final HTMLTable table;

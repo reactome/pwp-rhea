@@ -4,7 +4,7 @@ import com.google.gwt.event.shared.GwtEvent;
 import uk.ac.ebi.pwp.widgets.rhea.handlers.ReactionStructureLoadedHandler;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ReactionStructureLoadedEvent extends GwtEvent<ReactionStructureLoadedHandler> {
     public static Type<ReactionStructureLoadedHandler> TYPE = new Type<ReactionStructureLoadedHandler>();
