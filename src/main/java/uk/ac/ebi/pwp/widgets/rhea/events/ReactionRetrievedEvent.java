@@ -5,7 +5,7 @@ import uk.ac.ebi.pwp.widgets.rhea.handlers.ReactionRetrievedHandler;
 import uk.ac.ebi.pwp.widgets.rhea.model.Reaction;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class ReactionRetrievedEvent extends GwtEvent<ReactionRetrievedHandler> {
     public static Type<ReactionRetrievedHandler> TYPE = new Type<ReactionRetrievedHandler>();

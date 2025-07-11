@@ -8,7 +8,7 @@ import uk.ac.ebi.pwp.widgets.rhea.handlers.ReactionRetrievedHandler;
 import uk.ac.ebi.pwp.widgets.rhea.model.Reaction;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public final class ReactionFactory {
 

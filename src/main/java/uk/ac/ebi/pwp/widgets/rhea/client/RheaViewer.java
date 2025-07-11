@@ -16,7 +16,7 @@ import uk.ac.ebi.pwp.widgets.rhea.handlers.ReactionStructureNotAvailableHandler;
 import uk.ac.ebi.pwp.widgets.rhea.model.Reaction;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 @SuppressWarnings("UnusedDeclaration")
 public class RheaViewer extends Composite implements HasHandlers, ReactionRetrievedHandler {
